@@ -29,7 +29,7 @@ const INITIAL_DRIVERS: Driver[] = [
 
 const STATUS_STYLES: Record<DriverStatus, { bg: string; text: string }> = {
   active:    { bg: '#10b98120', text: '#34d399' },
-  pending:   { bg: '#f59e0b20', text: '#fbbf24' },
+  pending:   { bg: '#f59e0c20', text: '#fbbf24' },
   suspended: { bg: '#ef444420', text: '#f87171' },
 };
 
